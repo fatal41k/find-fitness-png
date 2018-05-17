@@ -1,1 +1,1 @@
-https://github.com/fatal41k/find-fitness-png/blob/master/Main%20page.JPG
+https://github.com/fatal41k/find-fitness-png/raw/master/Main%20page.JPG
